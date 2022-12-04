@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giacomo Piscia.
 - 👀 I’m interested in quantum information, Monte-Carlo methods, machine learnig, and cloud computing.
 - 🌱 I’m currently learning new aspects of ML with Python (sklearn, tensorflow).
-- 💞️ I’m looking to collaborate on quantum computers developement.
+- 💞️ I’m looking to collaborate on quantum computers developement and machine learning applications.
 - 📫 How to reach me: giacomo.piscia@gmail.com
